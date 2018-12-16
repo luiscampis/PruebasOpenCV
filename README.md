@@ -1,0 +1,2 @@
+# PruebasOpenCV
+Aprendizaje de OpenCV
